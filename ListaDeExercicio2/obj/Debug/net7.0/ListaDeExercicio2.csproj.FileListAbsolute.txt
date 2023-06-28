@@ -1,0 +1,15 @@
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/bin/Debug/net7.0/ListaDeExercicio2
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/bin/Debug/net7.0/ListaDeExercicio2.deps.json
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/bin/Debug/net7.0/ListaDeExercicio2.runtimeconfig.json
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/bin/Debug/net7.0/ListaDeExercicio2.dll
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/bin/Debug/net7.0/ListaDeExercicio2.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.csproj.AssemblyReference.cache
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.AssemblyInfoInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.AssemblyInfo.cs
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.dll
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/refint/ListaDeExercicio2.dll
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.pdb
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ListaDeExercicio2.genruntimeconfig.cache
+/Users/urielprocopio/Projects/ListaDeExercicio2/ListaDeExercicio2/obj/Debug/net7.0/ref/ListaDeExercicio2.dll

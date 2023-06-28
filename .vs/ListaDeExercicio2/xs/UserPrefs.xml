@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FC2F2813-AB25-4F59-99F4-57E09E54EB64}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ListaDeExercicio2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exercicio 2/Prova.cs">
+    <Files>
+      <File FileName="ListaDeExercicio2/Passageiro.cs" Line="19" Column="31" />
+      <File FileName="ListaDeExercicio2/Program.cs" Line="44" Column="44" />
+      <File FileName="Exercicio 2/Gabarito.cs" Line="1" Column="1" />
+      <File FileName="Exercicio 2/Program.cs" Line="1" Column="1" />
+      <File FileName="Exercicio 2/Prova.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaDeExercicio2" expanded="True">
+            <Node name="Exercicio 2">
+              <Node name="Prova.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exercicio_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
